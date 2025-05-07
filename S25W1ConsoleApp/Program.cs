@@ -17,6 +17,8 @@
 
             int average = total / count;
             Console.WriteLine("Average: " + average);
+
+            Console.WriteLine("Hello");
         }
     }
 }
